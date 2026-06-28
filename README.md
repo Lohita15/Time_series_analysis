@@ -191,7 +191,7 @@ The project includes an interactive Power BI dashboard featuring:
 
 LinkedIn: *www.linkedin.com/in/lohitareddy15*
 
-GitHub: **
+GitHub: *https://github.com/Lohita15*
 
 ---
 
